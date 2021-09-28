@@ -1,2 +1,2 @@
 # hyperblog
-Practicando git y github :)))))
+Practicing Git and GitHub, Platzi course 😎
